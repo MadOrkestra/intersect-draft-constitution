@@ -64,9 +64,7 @@ No formal membership shall be required to use, participate in and benefit from t
 
 ### **Section 2**
 
-Participants in the Cardano Community who own ada are entitled to access and participate in the on-chain decision-making processes of the Cardano Blockchain ecosystem,including
-
-voting and taking part in on-chain governance actions regarding the Cardano Blockchain.
+Participants in the Cardano Community who own ada are entitled to access and participate in the on-chain decision-making processes of the Cardano Blockchain ecosystem,including voting and taking part in on-chain governance actions regarding the Cardano Blockchain.
 
 ### **Section 3**
 
@@ -92,9 +90,7 @@ On-chain governance decisions shall be made through a collective decision-making
 
 ### **Section 4**
 
-All owners of ada shall have the right to vote in on-chain governance action decision-making processes, subject to any restrictions or requirements provided for in this Constitution and the Cardano Blockchain Guardrails. All owners of ada shall have the right to propose changes to the governance structure of the Cardano Blockchain ecosystem in accordance with the Cardano Blockchain Guardrails. Owners of ada who use third-party custodians or other designees to hold
-
-their ada, may authorize, or may withhold authorization for, such third-parties to vote on their behalf.
+All owners of ada shall have the right to vote in on-chain governance action decision-making processes, subject to any restrictions or requirements provided for in this Constitution and the Cardano Blockchain Guardrails. All owners of ada shall have the right to propose changes to the governance structure of the Cardano Blockchain ecosystem in accordance with the Cardano Blockchain Guardrails. Owners of ada who use third-party custodians or other designees to hold their ada, may authorize, or may withhold authorization for, such third-parties to vote on their behalf.
 
 ### **Section 5**
 
@@ -140,9 +136,7 @@ DReps acting on behalf of other ada owners are expected to periodically adopt, a
 
 ### **Section 4**
 
-The Cardano Community is expected to support the creation, maintenance and ongoing administration of tools to enable owners of ada to explore and evaluate DRep candidates,
-
-access and evaluate DRep codes of conduct and select DReps on such criteria as they deem relevant.
+The Cardano Community is expected to support the creation, maintenance and ongoing administration of tools to enable owners of ada to explore and evaluate DRep candidates, access and evaluate DRep codes of conduct and select DReps on such criteria as they deem relevant.
 
 ### **Section 5**
 
@@ -170,9 +164,7 @@ Owners of ada who are both SPOs and acting as DReps shall publicly disclose that
 
 ### **Section 1**
 
-A Constitutional Committee shall be established as the branch of Cardano's on-chain governance process that ensures governance actions to be enacted on-chain are consistent with this
-
-Constitution. The Constitutional Committee shall comprise a set of owners of ada that is collectively responsible for ensuring that on-chain governance actions prior to enactment on chain,are constitutional. With limited exceptions as provided in this Constitution,the Constitutional Committee shall be limited to voting on the constitutionality of governance actions to be enacted on-chain. Constitutional Committee members are expected to have appropriate expertise to carry out their required responsibilities,considering their past contributions and involvement in the Cardano Blockchain ecosystem.
+A Constitutional Committee shall be established as the branch of Cardano's on-chain governance process that ensures governance actions to be enacted on-chain are consistent with this Constitution. The Constitutional Committee shall comprise a set of owners of ada that is collectively responsible for ensuring that on-chain governance actions prior to enactment on chain,are constitutional. With limited exceptions as provided in this Constitution,the Constitutional Committee shall be limited to voting on the constitutionality of governance actions to be enacted on-chain. Constitutional Committee members are expected to have appropriate expertise to carry out their required responsibilities,considering their past contributions and involvement in the Cardano Blockchain ecosystem.
 
 ### **Section 2**
 
@@ -192,9 +184,7 @@ Because “Info” actions have no on-chain effect and, accordingly, are neither
 
 In the case of "Info actions” that propose a Cardano Blockchain budget, Constitutional Committee members shall record a vote on-chain that sets forth their opinion as to whether the proposed budget, if it were to be implemented in the form contained in the “Info”action,would violate this Constitution.
 
-In the case of "Info" actions that propose a withdrawal from the Cardano treasury pursuant to a
-
-previously approved budget, Constitutional Committee members shall record a vote on-chain that sets forth their opinion as to whether such proposed withdrawal, if made in accordance with such“Info”action, would violate this Constitution.
+In the case of "Info" actions that propose a withdrawal from the Cardano treasury pursuant to a previously approved budget, Constitutional Committee members shall record a vote on-chain that sets forth their opinion as to whether such proposed withdrawal, if made in accordance with such“Info”action, would violate this Constitution.
 
 ### **Section 5**
 
