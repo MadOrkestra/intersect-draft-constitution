@@ -32,9 +32,7 @@ These below Tenets shall guide all participants of he Cardano Community, includi
 
 TENET 1 Transactions on the Cardano Blockchain shall not be slowed down or censored and shall be expediently served for their intended purpose.
 
-TENET 2 The cost of transactions on the Cardano Blockchain shall be predictable and not
-
-unreasonable.
+TENET 2 The cost of transactions on the Cardano Blockchain shall be predictable and not unreasonable.
 
 TENET 3 Anyone desiring to develop and deploy applications on the Cardano Blockchain shall not unreasonably be prevented from developing and deploying such applications as intended.
 
