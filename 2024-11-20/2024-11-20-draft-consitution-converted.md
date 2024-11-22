@@ -212,7 +212,7 @@ Constitutional Committee processes shall be transparent. The Constitutional Comm
 
 The Constitutional Committee shall operate pursuant to a code of conduct periodically adopted and published by the Constitutional Committee. The Constitutional Committee is encouraged to include ethical guidelines in its code of conduct.The Constitutional Committee shall periodically adopt and publish such policies and procedures as the Constitutional Committee shall deem necessary in carrying out its duties.
 
-## **Section 7**
+### **Section 7**
 
 The Cardano Community is expected to support the creation, maintenance and ongoing administration of tools as may be necessary and appropriate for the Constitutional Committee to perform its required functions.
 
@@ -304,7 +304,7 @@ Where a parameter is not explicitly listed in this document, then the script **m
 
 Conversely,where a parameter is explicitly listed in this document but no checkable guardrails are specified, the script **must not** imposes any constraints on changes to the parameter.
 
-## **2.GUARDRAILS AND GUIDELINES ON PROTOCOL PARAMETER UPDATE ACTIONS**
+### **2.GUARDRAILS AND GUIDELINES ON PROTOCOL PARAMETER UPDATE ACTIONS**
 
 Below are guardrails and guidelines for changing updatable protocol parameter settings via the protocol parameter update governance action such that the Cardano Blockchain is never in an unrecoverable state as a result of such changes.
 
@@ -1087,7 +1087,7 @@ This plan **should** be followed if problems are observed following the paramete
 
 Some fundamental protocol parameters cannot be changed by the Protocol Parameter Update governance action. These parameters can only be changed in a new Genesis file as part of a hard fork. It is not necessary to provide specific guardrails on updating these parameters.
 
-## **3.GUARDRAILS AND GUIDELINES ON TREASURY WITHDRAWAL ACTIONS**
+### **3.GUARDRAILS AND GUIDELINES ON TREASURY WITHDRAWAL ACTIONS**
 
 **Treasury withdrawal**actions specify the destination and amount of a number of withdrawals from the Cardano treasury.
 
@@ -1127,7 +1127,7 @@ HARDFORK-07 (x) Any deprecated protocol parameters **must** be indicated in this
 
 HARDFORK-08 (\~- no access to *Plutus cost model* parameters) New Plutus versions **must** be supported by a version-specific *Plutus cost model* that covers each primitive that is available in the new Plutus version
 
-## **5.GUARDRAILS AND GUIDELINES ON UPDATE CONSTITUTIONAL**
+### **5.GUARDRAILS AND GUIDELINES ON UPDATE CONSTITUTIONAL**
 
 ### **COMMITTEE OR THRESHOLD ACTIONS**
 
@@ -1137,7 +1137,7 @@ HARDFORK-08 (\~- no access to *Plutus cost model* parameters) New Plutus version
 
 UPDATE-CC-01a(x)**Update Constitutional Committee and/or threshold** **and/or term**governance actions **must not**be ratified until ada holders have ratified through an on-chain governance action this Constitution
 
-## **6.GUARDRAILS AND GUIDELINES ON NEW CONSTITUTION OR GUARDRAILS SCRIPT ACTIONS**
+### **6.GUARDRAILS AND GUIDELINES ON NEW CONSTITUTION OR GUARDRAILS SCRIPT ACTIONS**
 
 New constitution or guardrails script actions change the hash of the on-chain constitution and the associated guardrails script.
 
@@ -1147,7 +1147,7 @@ NEW-CONSTITUTION-01a (x)A**New Constitution** **or Guardrails Script** governanc
 
 NEW-CONSTITUTION-02(x) If specified, the new guardrails script must be consistent with this Constitution
 
-## **7.GUARDRAILS AND GUIDELINES ON NO CONFIDENCE ACTIONS**
+### **7.GUARDRAILS AND GUIDELINES ON NO CONFIDENCE ACTIONS**
 
 **No confidence**actions signal a state of no confidence in the governance system. No guardrails are imposed on **No Confidence** actions.
 
@@ -1155,7 +1155,7 @@ NEW-CONSTITUTION-02(x) If specified, the new guardrails script must be consisten
 
 \-None
 
-## **8.GUARDRAILS AND GUIDELINES ON INFO ACTIONS**
+### **8.GUARDRAILS AND GUIDELINES ON INFO ACTIONS**
 
 **Info**:actions are not enacted on-chain. No guardrails are imposed on **Info**actions.
 
@@ -1163,7 +1163,7 @@ NEW-CONSTITUTION-02(x) If specified, the new guardrails script must be consisten
 
 * None
 
-## **9.LIST OF PROTOCOL PARAMETER GROUPS**
+### **9.LIST OF PROTOCOL PARAMETER GROUPS**
 
 The protocol parameters are grouped by type, allowing different thresholds to be set for each group.
 
