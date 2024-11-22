@@ -1101,7 +1101,7 @@ TREASURY-03 (x) The budget for the Cardano Treasury **must** be denominated in a
 
 TREASURY-04(x) Treasury withdrawals **must not** be ratified until there is a community approved Cardano budget then in effect pursuant to a previous on-chain governance action agreed by the DReps with a threshold of greater than 50% of the active voting stake
 
-## **4.GUARDRAILS AND GUIDELINES ON HARD FORK INITIATION ACTIONS**
+### **4.GUARDRAILS AND GUIDELINES ON HARD FORK INITIATION ACTIONS**
 
 The **hard fork initiation**action requires both a new major and a new minor protocol version to be specified.
 
